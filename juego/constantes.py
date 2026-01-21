@@ -1,0 +1,4 @@
+VACIO = " "
+IA = "X"
+HUMANO = "O"
+EMPATE = "EMPATE"
